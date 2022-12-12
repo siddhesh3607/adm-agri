@@ -1,0 +1,12 @@
+h2.heading-light {
+font-family:helvetica !important;
+}
+header h2.heading-light, header h3 {
+font-family:helvetica !important;
+}
+nav#main, header#header, footer { 
+	display:none !important;
+}
+#section-tweets, #section-newsletter, #base, #hero-page, #onepage-nav {
+	display:none !important;
+}
